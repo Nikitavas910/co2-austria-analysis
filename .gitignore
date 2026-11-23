@@ -1,0 +1,5 @@
+data/*.csv
+data/*.sqlite
+__pycache__/
+.pytest_cache/
+.venv/
